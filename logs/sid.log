@@ -1,0 +1,146 @@
+2022-07-22 07:33:52 add sid deb main amd64 dde-account-faces 1.0.12.1+r006+gcde0720-1
+2022-07-22 07:33:52 add sid deb main amd64 dde-api-dbgsym 5.5.25+r006+gbf1a565-1
+2022-07-22 07:33:52 add sid deb main amd64 dde-api-dev 5.5.25+r006+gbf1a565-1
+2022-07-22 07:33:52 add sid deb main amd64 dde-api 5.5.25+r006+gbf1a565-1
+2022-07-22 07:33:53 add sid deb main amd64 dde-control-center-dbgsym 5.5.34+r018+g9df55113c-1
+2022-07-22 07:33:53 add sid deb main amd64 dde-control-center-dev 5.5.34+r018+g9df55113c-1
+2022-07-22 07:33:53 add sid deb main amd64 dde-control-center 5.5.34+r018+g9df55113c-1
+2022-07-22 07:33:53 add sid deb main amd64 dde-daemon-dbgsym 5.14.30+r020+g7b22bc23-1
+2022-07-22 07:33:53 add sid deb main amd64 dde-daemon 5.14.30+r020+g7b22bc23-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-grand-search-dbgsym 5.3.2+r012+gbec2088-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-grand-search 5.3.2+r012+gbec2088-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-launcher-dbgsym 5.5.19+r011+gc434dcb9-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-launcher 5.5.19+r011+gc434dcb9-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-polkit-agent-dbgsym 5.5.19+r008+g3984182-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-polkit-agent-dev 5.5.19+r008+g3984182-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-polkit-agent 5.5.19+r008+g3984182-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5integration-dbgsym 5.5.23.1+r009+g6896053-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5integration5-dbgsym 5.5.23.1+r009+g6896053-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5integration5 5.5.23.1+r009+g6896053-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5integration 5.5.23.1+r009+g6896053-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5wayland-plugin-dbgsym 5.0.66+r005+g6af1825-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5wayland-plugin 5.0.66+r005+g6af1825-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5xcb-plugin-dbgsym 5.0.66+r005+g6af1825-1
+2022-07-22 07:33:54 add sid deb main amd64 dde-qt5xcb-plugin 5.0.66+r005+g6af1825-1
+2022-07-22 07:33:55 add sid deb main amd64 dde-session-shell-dbgsym 5.5.31+r008+g78866e8c-1
+2022-07-22 07:33:55 add sid deb main amd64 dde-session-shell-dev 5.5.31+r008+g78866e8c-1
+2022-07-22 07:33:55 add sid deb main amd64 dde-session-shell 5.5.31+r008+g78866e8c-1
+2022-07-22 07:33:55 add sid deb main amd64 dde-session-ui-dbgsym 5.5.23+r008+g798943ea-1
+2022-07-22 07:33:55 add sid deb main amd64 dde-session-ui 5.5.23+r008+g798943ea-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-dev-dbgsym 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-dev 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-dkms 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-libs-dbgsym 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-libs 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-server-dbgsym 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-server-dev 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-anything-server 6.0.0+r008+g9b72168-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-community-wallpapers 1.6.14+r001+gf1ef00f-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-desktop-base 2022.03.07+r008+g514437c-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-desktop-schemas 5.10.6+r006+gcdd4b0e-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-gettext-tools 1.0.10+r007+g65ed92c-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-greeter-wayland 5.5.31+r008+g78866e8c-1
+2022-07-22 07:33:55 add sid deb main amd64 deepin-gtk-theme 2020.06.10+r022+gd0c0e68-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-icon-theme 2021.11.24+r005+gc51ed037-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-keyring 2019.01.09+r002+g033ed63-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-movie-dbgsym 5.10.6+r3322+g012d8ce9-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-movie 5.10.6+r3322+g012d8ce9-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-proxy-dbgsym 0.0.0+r096+g079de75-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-proxy 0.0.0+r096+g079de75-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-pw-check-dbgsym 5.1.11+r006+g38c067a-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-pw-check 5.1.11+r006+g38c067a-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-screensaver-dbgsym 5.0.10+r003+g9265826-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-screensaver-xscreensaver-data 5.0.10+r003+g9265826-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-screensaver 5.0.10+r003+g9265826-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-sound-theme 15.10.6+r007+ge322f41-1
+2022-07-22 07:33:56 add sid deb main amd64 deepin-wallpapers 1.6.14+r001+gf1ef00f-1
+2022-07-22 07:33:56 add sid deb main amd64 dpa-ext-gnomekeyring-dbgsym 5.0.11+r006+gdaac398-1
+2022-07-22 07:33:56 add sid deb main amd64 dpa-ext-gnomekeyring 5.0.11+r006+gdaac398-1
+2022-07-22 07:33:56 add sid deb main amd64 dtk-exhibition-dbgsym 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:57 add sid deb main amd64 dtk-exhibition 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:57 add sid deb main amd64 dtkwidget5-examples-dbgsym 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:57 add sid deb main amd64 dtkwidget5-examples 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-gir-generator-dbgsym 2.1.0+r007+ge00a44c-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-gir-generator 2.1.0+r007+ge00a44c-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-gir-gio-2.0-dev 2.1.0+r007+ge00a44c-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-gir-glib-2.0-dev 2.1.0+r007+ge00a44c-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-gir-gobject-2.0-dev 2.1.0+r007+ge00a44c-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-gir-gudev-1.0-dev 2.1.0+r007+ge00a44c-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-github-linuxdeepin-go-dbus-factory-dev 1.10.9+r007+ge93e733-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-github-linuxdeepin-go-lib-dev 5.8.10+r006+gaaa5e39-1
+2022-07-22 07:33:57 add sid deb main amd64 golang-github-linuxdeepin-go-x11-client-dev 0.6.9+r005+g7688036-1
+2022-07-22 07:33:57 add sid deb main amd64 libdde-network-utils-dbgsym 5.4.9+r014+g95fa450-1
+2022-07-22 07:33:57 add sid deb main amd64 libdde-network-utils-dev 5.4.9+r014+g95fa450-1
+2022-07-22 07:33:57 add sid deb main amd64 libdde-network-utils 5.4.9+r014+g95fa450-1
+2022-07-22 07:33:57 add sid deb main amd64 libdeepin-pw-check-dbgsym 5.1.11+r006+g38c067a-1
+2022-07-22 07:33:57 add sid deb main amd64 libdeepin-pw-check-dev 5.1.11+r006+g38c067a-1
+2022-07-22 07:33:57 add sid deb main amd64 libdeepin-pw-check 5.1.11+r006+g38c067a-1
+2022-07-22 07:33:57 add sid deb main amd64 libdframeworkdbus-dev 5.5.22+r009+gde243b4-1
+2022-07-22 07:33:58 add sid deb main amd64 libdframeworkdbus2-dbgsym 5.5.22+r009+gde243b4-1
+2022-07-22 07:33:58 add sid deb main amd64 libdframeworkdbus2 5.5.22+r009+gde243b4-1
+2022-07-22 07:33:58 add sid deb main amd64 libdisomaster-dbgsym 5.0.7+r006+g4fe821e-1
+2022-07-22 07:33:58 add sid deb main amd64 libdisomaster-dev 5.0.7+r006+g4fe821e-1
+2022-07-22 07:33:58 add sid deb main amd64 libdisomaster 5.0.7+r006+g4fe821e-1
+2022-07-22 07:33:58 add sid deb main amd64 libdmr-dbgsym 5.10.6+r3322+g012d8ce9-1
+2022-07-22 07:33:58 add sid deb main amd64 libdmr-dev 5.10.6+r3322+g012d8ce9-1
+2022-07-22 07:33:58 add sid deb main amd64 libdmr 5.10.6+r3322+g012d8ce9-1
+2022-07-22 07:33:58 add sid deb main amd64 libdocparser-dbgsym 1.0.3+r006+gf5ac4f9-1
+2022-07-22 07:33:58 add sid deb main amd64 libdocparser-dev 1.0.3+r006+gf5ac4f9-1
+2022-07-22 07:33:58 add sid deb main amd64 libdocparser 1.0.3+r006+gf5ac4f9-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcommon-dev 5.5.23+r005+g1e395ba-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcommon 5.5.23+r005+g1e395ba-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcore-dev 5.5.32+r061+g2821571-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcore5-bin-dbgsym 5.5.32+r061+g2821571-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcore5-bin 5.5.32+r061+g2821571-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcore5-dbgsym 5.5.32+r061+g2821571-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkcore5 5.5.32+r061+g2821571-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkdeclarative-dev 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkdeclarative5-dbgsym 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkdeclarative5 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkgui-dev 5.5.24+r051+gffe5dfa-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkgui5-bin-dbgsym 5.5.24+r051+gffe5dfa-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkgui5-bin 5.5.24+r051+gffe5dfa-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkgui5-dbgsym 5.5.24+r051+gffe5dfa-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkgui5 5.5.24+r051+gffe5dfa-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkwidget-dev 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkwidget5-bin-dbgsym 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:58 add sid deb main amd64 libdtkwidget5-bin 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:59 add sid deb main amd64 libdtkwidget5-dbgsym 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:59 add sid deb main amd64 libdtkwidget5 5.5.46+r025+g43ca55a4-1
+2022-07-22 07:33:59 add sid deb main amd64 libgio-qt-dbgsym 0.0.11+r005+gd11b521-1
+2022-07-22 07:33:59 add sid deb main amd64 libgio-qt-dev 0.0.11+r005+gd11b521-1
+2022-07-22 07:33:59 add sid deb main amd64 libgio-qt-doc 0.0.11+r005+gd11b521-1
+2022-07-22 07:33:59 add sid deb main amd64 libgio-qt 0.0.11+r005+gd11b521-1
+2022-07-22 07:33:59 add sid deb main amd64 libudisks2-qt5-dbgsym 5.0.6+r005+g2825b2c-1
+2022-07-22 07:33:59 add sid deb main amd64 libudisks2-qt5-dev 5.0.6+r005+g2825b2c-1
+2022-07-22 07:33:59 add sid deb main amd64 libudisks2-qt5 5.0.6+r005+g2825b2c-1
+2022-07-22 07:33:59 add sid deb main amd64 qml-module-qtquick-controls2-styles-chameleon-dbgsym 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:59 add sid deb main amd64 qml-module-qtquick-controls2-styles-chameleon 1.0.9+r214+g67fd212-1
+2022-07-22 07:33:59 add sid deb main amd64 sea-icon-theme 2021.11.24+r005+gc51ed037-1
+2022-07-22 07:34:00 add sid deb main amd64 startdde-dbgsym 5.9.29+r009+gd7d5391-1
+2022-07-22 07:34:00 add sid deb main amd64 startdde 5.9.29+r009+gd7d5391-1
+2022-07-22 08:20:04 replace sid deb main amd64 libdtkwidget-dev 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:20:05 replace sid deb main amd64 dtkwidget5-examples-dbgsym 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:20:06 replace sid deb main amd64 dtkwidget5-examples 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:20:07 replace sid deb main amd64 libdtkwidget5-bin 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:20:08 replace sid deb main amd64 libdtkwidget5-bin-dbgsym 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:20:09 replace sid deb main amd64 libdtkwidget5-dbgsym 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:20:11 replace sid deb main amd64 libdtkwidget5 5.5.46+r27+g95ef4732-1 5.5.46+r025+g43ca55a4-1
+2022-07-22 08:23:41 replace sid deb main amd64 libdtkwidget5-bin-dbgsym 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-22 08:23:41 replace sid deb main amd64 libdtkwidget-dev 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-22 08:23:42 replace sid deb main amd64 libdtkwidget5-dbgsym 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-22 08:23:45 replace sid deb main amd64 libdtkwidget5-bin 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-22 08:23:45 replace sid deb main amd64 dtkwidget5-examples 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-22 08:23:46 replace sid deb main amd64 dtkwidget5-examples-dbgsym 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-22 08:23:47 replace sid deb main amd64 libdtkwidget5 5.5.47+r1+g3a1d4842-1 5.5.46+r27+g95ef4732-1
+2022-07-23 06:45:12 replace sid deb main amd64 libdtkwidget5-dbgsym 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 06:45:15 replace sid deb main amd64 libdtkwidget5-bin 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 06:45:15 replace sid deb main amd64 libdtkwidget-dev 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 06:45:15 replace sid deb main amd64 libdtkwidget5-bin-dbgsym 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 06:45:16 replace sid deb main amd64 dtkwidget5-examples-dbgsym 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 06:45:17 replace sid deb main amd64 dtkwidget5-examples 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 06:45:18 replace sid deb main amd64 libdtkwidget5 5.5.47+r2+gbb978461-1 5.5.47+r1+g3a1d4842-1
+2022-07-23 07:49:47 replace sid deb main amd64 dde-qt5xcb-plugin-dbgsym 5.0.66+r6+g32de37c-1 5.0.66+r005+g6af1825-1
+2022-07-23 07:49:48 replace sid deb main amd64 dde-qt5wayland-plugin-dbgsym 5.0.66+r6+g32de37c-1 5.0.66+r005+g6af1825-1
+2022-07-23 07:49:48 replace sid deb main amd64 dde-qt5wayland-plugin 5.0.66+r6+g32de37c-1 5.0.66+r005+g6af1825-1
+2022-07-23 07:49:49 replace sid deb main amd64 dde-qt5xcb-plugin 5.0.66+r6+g32de37c-1 5.0.66+r005+g6af1825-1

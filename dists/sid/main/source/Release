@@ -1,0 +1,5 @@
+Version: 2022
+Component: main
+Label: deepin-apricot
+Architecture: source
+Description: Deepin debian packages
